@@ -1,0 +1,14 @@
+{
+  "name": "sever",
+  "version": "1.0.0",
+  "description": "服务端的测试用例",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "lck",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.1.0"
+  }
+}
